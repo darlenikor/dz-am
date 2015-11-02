@@ -1,0 +1,46 @@
+*{
+margin: 0;
+padding: 0;}
+
+.img {
+    width:150px;
+    height:150px;}
+
+a{
+    display:inline-block;
+}
+
+body {
+    font-size:20px;
+    line-height: 22px;
+    font-family: Lucida;
+    
+}
+.container{
+    width: 550;
+    margin:35 auto;
+    background: #FFEBCD;
+    box-shadow: 1px 5px rgba(0, 0, 0, .3);
+    padding: 50px 40px 0;
+
+}
+
+.header{
+    padding: 10px 5px ;
+    border-bottom: #2F4F4F;
+    text-align: center;
+}
+
+.saymyname h1{
+    font-size: 25px;
+    line-height: 28px;
+    padding-bottom: 15px ;
+}
+
+.ava img {
+    width: 150;
+    
+}
+.fac {
+    text-align: right;
+}
