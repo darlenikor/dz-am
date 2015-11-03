@@ -17,9 +17,9 @@ body {
     
 }
 .container{
-    width: 550;
-    margin:35 auto;
-    background: #FFEBCD;
+    width: 570;
+    height: 840px;
+    background: #DFCCFC;
     box-shadow: 1px 5px rgba(0, 0, 0, .3);
     padding: 50px 40px 0;
 
@@ -34,18 +34,40 @@ body {
 .saymyname h1{
     font-size: 200%;
     line-height: 28px;
-    padding-bottom: 15px ;
+    padding: 20px ;
 }
 
 .ava img {
-    width: 250px;
+    width: 270px;
     height: auto;
     
 }
 .fac {
-    text-align: center; /* конформист?*/
+    text-align: center; 
     padding: 15px;
     font-size: 80%;
-    content: "ПРочитай ТЕРМИНАЛ!";
+
+}
+.goal {
+    padding: 10px 0 25px 20px;
+    line-height: 1.3;
+   color: #A1205E;
+    
 }
 
+.contact {
+    padding: 20px 15px 10px;
+    line-height: 1.5;
+    text-align: right;
+    color: #42158A;
+     border-style: dashed ;
+    border-color: #FCF6CF;
+    
+}
+.feed {
+    margin: 10px 10px 40px auto;
+    line-height: 1.7;
+    font-size: 110%;
+    color:#0D3D09;
+
+}
